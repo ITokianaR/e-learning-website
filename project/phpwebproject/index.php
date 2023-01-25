@@ -25,6 +25,7 @@
 
       li {
         display: inline;
+          /*displau:none*/
       }
 
       #p {
